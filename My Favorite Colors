@@ -1,0 +1,4 @@
+var x = ["pink", "green", "blue", "yellow"]
+for(var i=0; i<x.length; i++) {
+console.log ("My #" + (i+1) + " choice is " + x[i]);
+}
